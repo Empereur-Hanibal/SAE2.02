@@ -1,0 +1,4 @@
+1. Donner les droits d'exécution au fichier Compilation.sh (chmod u+x Compilation.sh)
+2. Exécuter Compilation.sh en donnant en paramètre le chemin vers paquetage_class
+3. Se placer dans paquetage_class/graphe/
+4. Exécuter le Controleur (java graphe.Controleur)
